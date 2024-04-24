@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c023fb88.css",
+    "main.js": "/static/js/main.0f500fc3.js",
+    "static/js/453.c93e88d3.chunk.js": "/static/js/453.c93e88d3.chunk.js",
+    "static/media/Rectangle 17.png": "/static/media/Rectangle 17.3d97f854d1b22468e37a.png",
+    "static/media/Rectangle 20.png": "/static/media/Rectangle 20.d50145770aa742492e6c.png",
+    "static/media/Rectangle 19.png": "/static/media/Rectangle 19.b5448e41231eb712281d.png",
+    "static/media/Rectangle 22.png": "/static/media/Rectangle 22.8da92730b70b4cffd053.png",
+    "static/media/Rectangle 21.png": "/static/media/Rectangle 21.e03c9e932852447fa9d8.png",
+    "static/media/Rectangle 26.png": "/static/media/Rectangle 26.7cae522511a962e7d7ae.png",
+    "static/media/Rectangle 30.png": "/static/media/Rectangle 30.652be56a4c92115e4b4b.png",
+    "static/media/Rectangle 25.png": "/static/media/Rectangle 25.4e723fe5bc766b42cb83.png",
+    "static/media/Rectangle 27.png": "/static/media/Rectangle 27.a705d9e1b25688f26e02.png",
+    "static/media/Rectangle 18.png": "/static/media/Rectangle 18.97bef92eb56da8edeedb.png",
+    "static/media/Rectangle 29.png": "/static/media/Rectangle 29.0766fbfd35614c5068ce.png",
+    "static/media/Rectangle 23.png": "/static/media/Rectangle 23.eba5e27f042b41fb634d.png",
+    "static/media/Rectangle 24.png": "/static/media/Rectangle 24.fc1cf6379a59d487c6bd.png",
+    "static/media/Rectangle 28.png": "/static/media/Rectangle 28.60f3062a0920baad2217.png",
+    "static/media/Rectangle 31.png": "/static/media/Rectangle 31.1f0942172332ddd0439c.png",
+    "index.html": "/index.html",
+    "main.c023fb88.css.map": "/static/css/main.c023fb88.css.map",
+    "main.0f500fc3.js.map": "/static/js/main.0f500fc3.js.map",
+    "453.c93e88d3.chunk.js.map": "/static/js/453.c93e88d3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c023fb88.css",
+    "static/js/main.0f500fc3.js"
+  ]
+}
